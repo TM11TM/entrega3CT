@@ -1,32 +1,36 @@
-version: '3.8'
-
 services:
   db:
     image: mariadb:10.6
-    container_name: clase-db
+    container_name: mariadb
     restart: always
     environment:
-      MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
-      MYSQL_DATABASE: clase
+      MYSQL_ROOT_PASSWORD: clase123
+      MYSQL_DATABASE: bd_clase
+      MYSQL_USER: fastapi_user
+      MYSQL_PASSWORD: clase123
     volumes:
-      - clase-data:/var/lib/mysql
+      - mariadb-data:/var/lib/mysql
     networks:
-      - clase-net
+      - entrega3net
 
-  api:
+  entrega3app:
     build: .
-    container_name: clase_api
+    container_name: entrega3app
     ports:
       - '8080:8080'
     depends_on:
       - db
-    networks:
-      - clase-net
+    environment:
+      DATABASE_URL: 'mariadb+mariadbconnector://fastapi_user:clase123@db:3306/bd_clase'
+    command: >
+      sh -c "sleep 10 && uvicorn app.main:app --host 0.0.0.0 --port 8080"
     volumes:
       - .:/app
+    networks:
+      - entrega3net
 
 volumes:
-  clase-data:
+  mariadb-data:
 
 networks:
-  clase-net:
+  entrega3net:
