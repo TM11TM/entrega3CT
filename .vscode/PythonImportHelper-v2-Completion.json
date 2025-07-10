@@ -1,0 +1,516 @@
+[
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "app.src",
+        "description": "app.src",
+        "isExtraImport": true,
+        "detail": "app.src",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "app.src",
+        "description": "app.src",
+        "isExtraImport": true,
+        "detail": "app.src",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "app.src",
+        "description": "app.src",
+        "isExtraImport": true,
+        "detail": "app.src",
+        "documentation": {}
+    },
+    {
+        "label": "crud",
+        "importPath": "app.src",
+        "description": "app.src",
+        "isExtraImport": true,
+        "detail": "app.src",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "OperationalError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "app.src.db",
+        "description": "app.src.db",
+        "isExtraImport": true,
+        "detail": "app.src.db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "app.src.db",
+        "description": "app.src.db",
+        "isExtraImport": true,
+        "detail": "app.src.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.src.db",
+        "description": "app.src.db",
+        "isExtraImport": true,
+        "detail": "app.src.db",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "get_estudiantes",
+        "kind": 2,
+        "importPath": "app.src.crud",
+        "description": "app.src.crud",
+        "peekOfCode": "def get_estudiantes(db: Session):\n    return db.query(models.Estudiante).all()\ndef get_estudiante(db: Session, estudiante_id: int):\n    estudiante = db.query(models.Estudiante).filter(models.Estudiante.id == estudiante_id).first()\n    if not estudiante:\n        raise HTTPException(status_code=404, detail=\"Estudiante no encontrado\")\n    return estudiante\ndef create_estudiante(db: Session, estudiante: schemas.EstudianteCreate):\n    # Validación teléfono: 9 dígitos españoles (solo números)\n    if not re.fullmatch(r\"\\d{9}\", estudiante.telefono):",
+        "detail": "app.src.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_estudiante",
+        "kind": 2,
+        "importPath": "app.src.crud",
+        "description": "app.src.crud",
+        "peekOfCode": "def get_estudiante(db: Session, estudiante_id: int):\n    estudiante = db.query(models.Estudiante).filter(models.Estudiante.id == estudiante_id).first()\n    if not estudiante:\n        raise HTTPException(status_code=404, detail=\"Estudiante no encontrado\")\n    return estudiante\ndef create_estudiante(db: Session, estudiante: schemas.EstudianteCreate):\n    # Validación teléfono: 9 dígitos españoles (solo números)\n    if not re.fullmatch(r\"\\d{9}\", estudiante.telefono):\n        raise HTTPException(status_code=400, detail=\"Teléfono inválido. Debe tener 9 dígitos numéricos\")\n    # Validación email básica con regex",
+        "detail": "app.src.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_estudiante",
+        "kind": 2,
+        "importPath": "app.src.crud",
+        "description": "app.src.crud",
+        "peekOfCode": "def create_estudiante(db: Session, estudiante: schemas.EstudianteCreate):\n    # Validación teléfono: 9 dígitos españoles (solo números)\n    if not re.fullmatch(r\"\\d{9}\", estudiante.telefono):\n        raise HTTPException(status_code=400, detail=\"Teléfono inválido. Debe tener 9 dígitos numéricos\")\n    # Validación email básica con regex\n    email_regex = r\"[^@]+@[^@]+\\.[^@]+\"\n    if not re.fullmatch(email_regex, estudiante.email):\n        raise HTTPException(status_code=400, detail=\"Email inválido\")\n    # Comprobar si email ya existe\n    existing = db.query(models.Estudiante).filter(models.Estudiante.email == estudiante.email).first()",
+        "detail": "app.src.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_estudiante",
+        "kind": 2,
+        "importPath": "app.src.crud",
+        "description": "app.src.crud",
+        "peekOfCode": "def delete_estudiante(db: Session, estudiante_id: int):\n    estudiante = db.query(models.Estudiante).filter(models.Estudiante.id == estudiante_id).first()\n    if not estudiante:\n        raise HTTPException(status_code=404, detail=\"Estudiante no encontrado\")\n    db.delete(estudiante)\n    db.commit()",
+        "detail": "app.src.crud",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.src.db",
+        "description": "app.src.db",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"mariadb+pymysql://fastapi_user:clase123@db:3306/bd_clase\"\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\n#Sesión para hacer consultas en FastAPI\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base de los modelos\nBase = declarative_base()",
+        "detail": "app.src.db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.src.db",
+        "description": "app.src.db",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\n#Sesión para hacer consultas en FastAPI\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base de los modelos\nBase = declarative_base()",
+        "detail": "app.src.db",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.src.db",
+        "description": "app.src.db",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base de los modelos\nBase = declarative_base()",
+        "detail": "app.src.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.src.db",
+        "description": "app.src.db",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "app.src.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.src.main",
+        "description": "app.src.main",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n# bbdd error\ntry:\n    with SessionLocal() as db:\n        db.execute(text(\"SELECT 1\"))",
+        "detail": "app.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "listar_estudiantes",
+        "kind": 2,
+        "importPath": "app.src.main",
+        "description": "app.src.main",
+        "peekOfCode": "def listar_estudiantes(db: Session = Depends(get_db)):\n    logger.info(\"Listando todos los estudiantes\")\n    estudiantes = crud.get_estudiantes(db)\n    if estudiantes is None:\n        raise HTTPException(status_code=404, detail=\"No se encontraron estudiantes\")\n    return estudiantes\n@app.get(\"/estudiante/{estudiante_id}\", response_model=schemas.EstudianteResponse)\ndef obtener_estudiante(estudiante_id: int, db: Session = Depends(get_db)):\n    logger.info(f\"Obteniendo estudiante con id {estudiante_id}\")\n    estudiante = crud.get_estudiante(db, estudiante_id)",
+        "detail": "app.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "obtener_estudiante",
+        "kind": 2,
+        "importPath": "app.src.main",
+        "description": "app.src.main",
+        "peekOfCode": "def obtener_estudiante(estudiante_id: int, db: Session = Depends(get_db)):\n    logger.info(f\"Obteniendo estudiante con id {estudiante_id}\")\n    estudiante = crud.get_estudiante(db, estudiante_id)\n    if estudiante is None:\n        raise HTTPException(status_code=404, detail=\"Estudiante no encontrado\")\n    return estudiante\n@app.post(\"/estudiante\", response_model=schemas.EstudianteResponse, status_code=status.HTTP_201_CREATED)\ndef crear_estudiante(estudiante: schemas.EstudianteCreate, db: Session = Depends(get_db)):\n    logger.info(f\"Creando estudiante: {estudiante}\")\n    # Validaciones manuales (adicionales a las del crud)",
+        "detail": "app.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "crear_estudiante",
+        "kind": 2,
+        "importPath": "app.src.main",
+        "description": "app.src.main",
+        "peekOfCode": "def crear_estudiante(estudiante: schemas.EstudianteCreate, db: Session = Depends(get_db)):\n    logger.info(f\"Creando estudiante: {estudiante}\")\n    # Validaciones manuales (adicionales a las del crud)\n    if not estudiante.nombre or not estudiante.apellidos or not estudiante.master or not estudiante.telefono or not estudiante.email:\n        raise HTTPException(status_code=400, detail=\"Todos los campos son obligatorios\")\n    return crud.create_estudiante(db, estudiante)\n@app.delete(\"/estudiante/{estudiante_id}\", status_code=status.HTTP_204_NO_CONTENT)\ndef eliminar_estudiante(estudiante_id: int, db: Session = Depends(get_db)):\n    logger.info(f\"Eliminando estudiante con id {estudiante_id}\")\n    estudiante = crud.get_estudiante(db, estudiante_id)",
+        "detail": "app.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "eliminar_estudiante",
+        "kind": 2,
+        "importPath": "app.src.main",
+        "description": "app.src.main",
+        "peekOfCode": "def eliminar_estudiante(estudiante_id: int, db: Session = Depends(get_db)):\n    logger.info(f\"Eliminando estudiante con id {estudiante_id}\")\n    estudiante = crud.get_estudiante(db, estudiante_id)\n    if estudiante is None:\n        raise HTTPException(status_code=404, detail=\"Estudiante no encontrado\")\n    crud.delete_estudiante(db, estudiante_id)\n    return None",
+        "detail": "app.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.src.main",
+        "description": "app.src.main",
+        "peekOfCode": "app = FastAPI()\nlogging.basicConfig(level=logging.INFO)\nlogger = logging.getLogger(__name__)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n# bbdd error",
+        "detail": "app.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.src.main",
+        "description": "app.src.main",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n# bbdd error\ntry:\n    with SessionLocal() as db:",
+        "detail": "app.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "Estudiante",
+        "kind": 6,
+        "importPath": "app.src.models",
+        "description": "app.src.models",
+        "peekOfCode": "class Estudiante(Base):\n    __tablename__ = \"estudiantes\"\n    id = Column(Integer, primary_key=True, index=True)\n    nombre = Column(String(50), nullable=False)\n    apellidos = Column(String(100), nullable=False)\n    master = Column(String(100), nullable=False)\n    telefono = Column(String(9), nullable=False)\n    email = Column(String(100), nullable=False, unique=True)",
+        "detail": "app.src.models",
+        "documentation": {}
+    },
+    {
+        "label": "Estudiante",
+        "kind": 6,
+        "importPath": "app.src.schemas",
+        "description": "app.src.schemas",
+        "peekOfCode": "class Estudiante(BaseModel):\n    nombre: str = Field( description=\"Nombre del estudiante\")\n    apellidos: str = Field( description=\"Apellidos del estudiante\")\n    master: str = Field( description=\"Nombre del máster que estudia\")\n    telefono: str = Field( description=\"Teléfono español de 9 dígitos\")\n    email:str = Field(description=\"Correo electrónico del estudiante\")\nclass EstudianteCreate(Estudiante):\n    pass\nclass EstudianteResponse(Estudiante):\n    id: int",
+        "detail": "app.src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "EstudianteCreate",
+        "kind": 6,
+        "importPath": "app.src.schemas",
+        "description": "app.src.schemas",
+        "peekOfCode": "class EstudianteCreate(Estudiante):\n    pass\nclass EstudianteResponse(Estudiante):\n    id: int\n    class Config:\n        orm_mode = True",
+        "detail": "app.src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "EstudianteResponse",
+        "kind": 6,
+        "importPath": "app.src.schemas",
+        "description": "app.src.schemas",
+        "peekOfCode": "class EstudianteResponse(Estudiante):\n    id: int\n    class Config:\n        orm_mode = True",
+        "detail": "app.src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len('Scripts') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len('Scripts') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    }
+]
